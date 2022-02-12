@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  min-height: 100%;
+  padding: 0 32px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
